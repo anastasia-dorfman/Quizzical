@@ -1,0 +1,49 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "type": "boolean",
+      "difficulty": "easy",
+      "category": "Entertainment: Video Games",
+      "question": "Tony Hawk&#039;s extreme sports videogames revolve around performing professional BMX tricks.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Cartoon &amp; Animations",
+      "question": "What ability does Princess Sofia the First have from her amulet that allows her to breathe underwater?",
+      "correct_answer": "Mermaid Transformation",
+      "incorrect_answers": ["Artificial Gills", "Bubble Head", "Bubble Shield"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Film",
+      "question": "Mark Wahlberg played the titular character of which 2008 video-game adaptation?",
+      "correct_answer": "Max Payne",
+      "incorrect_answers": ["Alan Wake", "Hitman", "God Of War"]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "easy",
+      "category": "Science: Gadgets",
+      "question": "What does GPS stand for?",
+      "correct_answer": "Global Positioning System",
+      "incorrect_answers": [
+        "Global Personal System",
+        "General Positioning System",
+        "General Personal Satellite"
+      ]
+    },
+    {
+      "type": "multiple",
+      "difficulty": "medium",
+      "category": "Entertainment: Japanese Anime &amp; Manga",
+      "question": "Which Japanese music group was formed to produce theme music for the anime &quot;Guilty Crown&quot;?",
+      "correct_answer": "Egoist",
+      "incorrect_answers": ["Goose house", "Babymetal", "Garnidelia"]
+    }
+  ]
+}
